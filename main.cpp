@@ -7,7 +7,7 @@
 
 
 int main() {
-        // generate random array
+        // generate random array change
         srand (time(NULL));
         const int ARRSIZE = rand() % 100;
         int arr[ARRSIZE];
